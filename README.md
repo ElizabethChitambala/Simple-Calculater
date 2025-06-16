@@ -1,4 +1,4 @@
- SIMPLE CALCULATER<b> <br> 
+<b> SIMPLE CALCULATER</b> <br> 
 
 202400418<br>
 202400247<br>
